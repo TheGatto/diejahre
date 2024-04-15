@@ -1,0 +1,17 @@
+characters = {
+	AQU_pierre_le_pen = {
+		name = "Pierre Le Pen" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_AQU_pierre_le_pen
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

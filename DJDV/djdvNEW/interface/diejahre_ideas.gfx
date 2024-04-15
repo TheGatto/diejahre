@@ -1,0 +1,11 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_idea_OCC_outdated_economics"
+		texturefile = "gfx/interface/ideas/OCC_outdated_economics.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_OCC_mop"
+		texturefile = "gfx/interface/ideas/OCC_mop.dds"
+	}
+}

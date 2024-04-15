@@ -1,0 +1,31 @@
+
+state={
+	id=679
+	name="STATE_679"
+
+	history={
+		owner = TUR
+		victory_points = {
+			12758 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = TUR
+		controller = EGY
+		start_resistance = yes
+		set_compliance = 20
+		set_resistance = 10
+		set_garrison_strength = 1.0
+
+	}
+
+	provinces={
+		2033 2090 4981 5037 5099 7934 10748 10835 12758 12883 
+	}
+	manpower=511000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

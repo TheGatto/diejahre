@@ -1,0 +1,16 @@
+characters = {
+	COU_marcel_duchamp = {
+		name = "Marcel Duchamp" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_COU_marcel_duchamp
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits={ }
+			id = -1 
+		}
+	}
+}
+	

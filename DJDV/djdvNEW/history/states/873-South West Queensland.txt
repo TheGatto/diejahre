@@ -1,0 +1,23 @@
+
+state={
+	id=873
+	name="STATE_873"
+
+	history={
+		buildings = {
+			infrastructure = 1
+
+		}
+		owner = TIB
+		add_core_of = CHI
+
+	}
+
+	provinces={
+		7940 8018 10834 12846 
+	}
+	manpower=39800
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

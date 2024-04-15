@@ -1,0 +1,22 @@
+state={
+	id=1062
+	name="STATE_1062"
+	history={
+		owner = NEG
+		add_core_of = NEG
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 4
+		}
+		victory_points = {
+			3878 30
+		}
+	}
+	provinces={
+		859 3878 
+	}
+	manpower=9093900
+	buildings_max_level_factor=1.000
+	state_category = large_city
+	local_supplies=0.000
+}

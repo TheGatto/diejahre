@@ -1,0 +1,27 @@
+
+state={
+	id=25
+	name="STATE_25"
+
+	history={
+		owner = OCC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+
+		}
+		victory_points = {
+			620 5 
+		}
+		add_core_of = OCC
+
+	}
+
+	provinces={
+		620 625 3598 3621 3771 6618 6648 6792 9751 
+	}
+	manpower=2943700
+	buildings_max_level_factor=1.250
+	state_category=large_town
+	local_supplies=0.000
+}

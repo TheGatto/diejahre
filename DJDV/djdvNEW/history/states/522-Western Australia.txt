@@ -1,0 +1,25 @@
+
+state={
+	id=522
+	name="STATE_522"
+
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = AST
+
+	}
+
+	provinces={
+		1526 1540 4630 7579 7608 8200 10473 10949 10969 10983 10997 12926 12962 
+	}
+	manpower=1517200
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

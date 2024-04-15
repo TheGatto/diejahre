@@ -1,0 +1,16 @@
+state={
+	id=1070
+	name="STATE_1070"
+	history={
+		owner = BRI
+		add_core_of = QUE
+
+	}
+	provinces={
+		1341 1764 7435 7875 10249 10700 12205 12276 
+	}
+	manpower=10300
+	state_category=wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

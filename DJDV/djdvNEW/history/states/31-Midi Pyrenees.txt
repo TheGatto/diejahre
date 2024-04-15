@@ -1,0 +1,35 @@
+
+state={
+	id=31
+	name="STATE_31"
+
+	history={
+		owner = OCC
+		victory_points = {
+			6766 50 
+		}
+		victory_points = {
+			11702 3 
+		}
+		victory_points = {
+			11699 5 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 5
+			industrial_complex = 5
+			air_base = 2
+
+		}
+		add_core_of = OCC
+
+	}
+
+	provinces={
+		929 943 3740 3749 3915 3948 6759 6766 9882 9884 11697 11699 11702 12169 
+	}
+	manpower=4825000
+	buildings_max_level_factor=1.250
+	state_category=megalopolis
+	local_supplies=0.000
+}

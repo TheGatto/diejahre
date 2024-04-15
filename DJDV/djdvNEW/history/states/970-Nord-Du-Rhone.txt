@@ -1,0 +1,32 @@
+state={
+	id=970
+	name="STATE_970"
+	resources={
+		steel=2.000
+		aluminium=6.000
+	}
+	history={
+		owner = RHO
+		victory_points = {
+			641 2 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 4
+
+		}
+		add_core_of = RHO
+
+
+	}
+
+	provinces={
+		3650 6668 6639 641 9590
+	}
+	manpower=1903200
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

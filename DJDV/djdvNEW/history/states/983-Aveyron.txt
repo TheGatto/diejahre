@@ -1,0 +1,29 @@
+state={
+	id=983
+	name="STATE_983"
+	resources={
+		steel=5.000
+		aluminium=20.000
+	}
+	history={
+		owner = OCC
+		victory_points = {
+			6770 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			air_base = 2
+
+		}
+		add_core_of = OCC
+
+	}
+	provinces={
+		752 3751 6770 9723 11709 
+	}
+	manpower=1482040
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=30.000
+}

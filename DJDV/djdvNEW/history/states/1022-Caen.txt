@@ -1,0 +1,21 @@
+state={
+	id=1022
+	name="STATE_1022"
+	history={
+		owner = NMY
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = NMY
+
+	}
+	provinces={
+		553 3534 3549 6599 9578 
+	}
+	manpower=473039
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = city
+}

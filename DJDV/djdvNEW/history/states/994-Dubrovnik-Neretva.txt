@@ -1,0 +1,29 @@
+state={
+	id=994
+	name="STATE_994"
+	history={
+		owner = HRZ
+		victory_points = {
+			6889 3 
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			6889 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = HRZ
+		add_core_of = CRO
+
+	}
+	provinces={
+		3868 6889 11816 
+	}
+	manpower=701700
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

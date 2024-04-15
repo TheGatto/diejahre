@@ -1,0 +1,11 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_report_event_marseilles_manifesto"
+		texturefile = "gfx/event_pictures/report_event_marseilles_manifesto.dds"
+	}
+	spriteType = {
+		name = "GFX_report_event_opposition_front"
+		texturefile = "gfx/event_pictures/report_event_opposition_front.dds"
+	}
+}

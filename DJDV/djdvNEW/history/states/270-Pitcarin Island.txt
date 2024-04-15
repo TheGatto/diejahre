@@ -1,0 +1,13 @@
+state=
+{
+	id=270
+	name="STATE_270"
+	manpower = 0
+	state_category = enclave
+	
+	provinces={
+		1280
+	}
+
+	local_supplies=0.0 
+}

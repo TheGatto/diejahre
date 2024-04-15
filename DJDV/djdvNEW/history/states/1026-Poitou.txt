@@ -1,0 +1,19 @@
+state={
+	id=1026
+	name="STATE_1026"
+	history={
+		owner = BRI
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BRI
+	}
+	provinces={
+		629 3659 3671 11596 
+	}
+	manpower=304590
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

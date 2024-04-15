@@ -1,0 +1,17 @@
+characters = {
+	BAY_rupprecht = {
+		name = "Rupprecht I" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BAY_rupprecht
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

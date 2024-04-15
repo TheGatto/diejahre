@@ -1,0 +1,23 @@
+state={
+	id=1049
+	name="STATE_1049"
+	history={
+		owner = SGP
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = SGP
+		add_core_of = INS
+
+	}
+
+	provinces={
+		12113 
+	}
+	manpower=78480
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

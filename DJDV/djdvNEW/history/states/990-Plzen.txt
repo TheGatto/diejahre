@@ -1,0 +1,20 @@
+state={
+	id=990
+	name="STATE_990"
+	history={
+		owner = BAY
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = BAY
+
+	}
+	provinces={
+		424 6470 9555 
+	}
+	manpower=374020
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

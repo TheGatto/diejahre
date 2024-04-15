@@ -1,0 +1,14 @@
+characters = {
+	YUN_zhang_wentian = {
+		name = "Zhang Wentian"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_YUN_zhang_wentian
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			traits = { }
+		}
+	}
+}

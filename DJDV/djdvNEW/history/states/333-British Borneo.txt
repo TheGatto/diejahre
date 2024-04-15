@@ -1,0 +1,27 @@
+
+state={
+	id=333
+	name="STATE_333"
+	resources={
+		rubber=40.000
+		oil=12.000
+	}
+
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = MAL
+
+	}
+
+	provinces={
+		4396 8091 10269 10285 12283 
+	}
+	manpower=889800
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

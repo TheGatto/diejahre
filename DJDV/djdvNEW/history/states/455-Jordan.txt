@@ -1,0 +1,36 @@
+
+state={
+	id=455
+	name="STATE_455"
+
+	history={
+		owner = TUR
+		controller = EGY
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			7151 1 
+		}
+		victory_points = {
+			11976 1 
+		}
+		add_core_of = JOR
+		add_core_of = TUR
+		start_resistance = yes
+		set_compliance = 20
+		set_resistance = 10
+		set_garrison_strength = 1.0
+
+	}
+
+	provinces={
+		4017 4115 4562 4574 4591 4603 7001 7151 7170 10089 11976 
+	}
+	manpower=932000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

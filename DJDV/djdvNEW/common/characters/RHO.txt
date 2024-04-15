@@ -1,0 +1,17 @@
+characters = {
+	RHO_paul_baudouin = {
+		name = "Paul Baudouin" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RHO_paul_baudouin
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

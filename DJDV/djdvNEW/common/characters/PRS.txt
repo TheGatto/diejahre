@@ -1,0 +1,17 @@
+characters = {
+	PRS_georges_bonnet = {
+		name = "Georges Bonnet" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PRS_georges_bonnet
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

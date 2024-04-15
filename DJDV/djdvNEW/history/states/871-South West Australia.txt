@@ -1,0 +1,32 @@
+
+state={
+	id=871
+	name="STATE_871"
+
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			1652 = {
+				naval_base = 1
+				coastal_bunker = 1
+
+			}
+
+		}
+		victory_points = {
+			1652 10 
+		}
+		owner = AST
+		add_core_of = AST
+
+	}
+
+	provinces={
+		1652 2157 5175 7453 8130 8228 8243 11011 12976 12990 
+	}
+	manpower=1970000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

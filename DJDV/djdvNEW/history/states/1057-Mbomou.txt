@@ -1,0 +1,21 @@
+state={
+	id=1057
+	name="STATE_1057"
+	history={
+		owner = EGY
+		add_core_of = EGY
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		3165 5084 12719 
+	}
+	manpower=98000
+	state_category=wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1000
+	name="STATE_1000"
+	history={
+		owner = MOL
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+		add_core_of = UKR
+		add_core_of = MOL
+
+	}
+	provinces={
+		3430 6455 9423 
+	}
+	manpower=130490
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

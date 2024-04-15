@@ -1,0 +1,24 @@
+state={
+	id=1076
+	name="STATE_1076"
+	history={
+		owner = AST
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = AST
+		victory_points = {
+			13364 10 
+		}
+
+	}
+	provinces={
+		13364 
+	}
+	manpower=111329
+	state_category=large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

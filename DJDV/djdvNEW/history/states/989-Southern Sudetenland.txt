@@ -1,0 +1,22 @@
+state={
+	id=989
+	name="STATE_989"
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+
+		}
+		add_core_of = AUS
+	}
+
+	provinces={
+		543 557 5283 7857 11525 
+	}
+	manpower=603900
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

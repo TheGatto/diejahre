@@ -1,0 +1,21 @@
+state={
+	id=1042
+	name="STATE_1042"
+	history={
+		owner = TIB
+		add_core_of = BAN
+		add_core_of = NEP
+		#add_core_of = SIM
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+	provinces={
+		4435 12338 
+	}
+	manpower=130200
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=1010
+	name="STATE_1010"
+	history={
+		owner = SAU
+		add_core_of = SAU
+		add_core_of = KUW
+		add_core_of = UAE
+	}
+	provinces={
+		2048 8108 
+	}
+	manpower=40930
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+characters = {
+	CHI_chiang_kai_shek = {
+		name = "Chiang Kai-Shek" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CHI_chiang_kai_shek
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits={ saviour_of_china }
+			id = -1 
+		}
+	}
+	CHI_wang_jingwei = {
+		name = "Wang Jingwei" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CHI_wang_jingwei
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits={ headstrong devoted_corporatist ARG_harsh_democrat }
+			id = -1 
+		}
+	}
+	
+}
+	

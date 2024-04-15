@@ -1,0 +1,28 @@
+state={
+	id=1048
+	name="STATE_1048"
+	history={
+		add_core_of = QAT
+		add_core_of = KUW
+		owner = KUW
+		victory_points = {
+			13313 5 
+		}
+		buildings = {
+			infrastructure = 4
+			13313 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	provinces={
+		13313 
+	}
+	manpower=451600
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

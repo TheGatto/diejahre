@@ -1,0 +1,17 @@
+characters = {
+	BRI_ael_le_pen = {
+		name = "Ael le Pen" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BRI_ael_le_pen
+			}
+		}
+		country_leader = {
+			ideology = absolutism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

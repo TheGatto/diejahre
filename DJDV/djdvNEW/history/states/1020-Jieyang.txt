@@ -1,0 +1,21 @@
+state={
+	id=1020
+	name="STATE_1020"
+	history={
+		owner = THK
+		add_core_of = THK
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		1078 1162 4165 4207 7067 7141 7182 9938 9978 
+	}
+	manpower=5939000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

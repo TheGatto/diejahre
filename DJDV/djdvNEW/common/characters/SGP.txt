@@ -1,0 +1,17 @@
+characters = {
+	SGP_lee_chin_koon = {
+		name = "Lee Chin Koon" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SGP_lee_chin_koon
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits={ father_of_grand_capitalism }
+			id = -1 
+		}
+	}
+	
+}
+	

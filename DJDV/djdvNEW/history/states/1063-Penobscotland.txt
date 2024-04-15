@@ -1,0 +1,27 @@
+
+state={
+	id=1063
+	name="STATE_1063"
+
+	history={
+		owner = BRI
+		add_core_of = QUE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			12459 1 
+		}
+
+	}
+
+	provinces={
+		1282 1338 1619 3732 4287 4342 6719 7462 10247 10318 10481 12202 12221 12459 
+	}
+	manpower=187000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

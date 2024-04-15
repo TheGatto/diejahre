@@ -1,0 +1,23 @@
+state={
+	id=1079
+	name="STATE_1079"
+	history={
+		owner = GOG
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = GOG
+		victory_points = {
+			13367 10
+		}
+
+	}
+	provinces={
+		13367 
+	}
+	manpower=133762
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

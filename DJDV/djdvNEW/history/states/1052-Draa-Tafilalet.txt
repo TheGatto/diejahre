@@ -1,0 +1,23 @@
+state={
+	id=1052
+	name="STATE_1052"
+	history={
+		owner = ALG
+		add_core_of = AGL
+		add_core_of = MOR
+
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1152 1207 1989 4933 7908 8046 10107 
+	}
+	manpower=190200
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

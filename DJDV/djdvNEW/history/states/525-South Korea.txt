@@ -1,0 +1,28 @@
+
+state={
+	id=525
+	name="STATE_525"
+
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			dockyard = 1
+
+		}
+		victory_points = {
+			7125 30 
+		}
+		add_core_of = KOR
+
+	}
+
+	provinces={
+		1100 1148 4004 7021 7125 7175 7204 7221 9936 10036 11958 11992 12011 
+	}
+	manpower=7284105
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={
+	id=1058
+	name="STATE_1058"
+	history={
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = AFA
+		add_core_of = ERI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		8043 
+	}
+	manpower=43000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

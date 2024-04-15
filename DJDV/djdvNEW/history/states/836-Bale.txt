@@ -1,0 +1,24 @@
+
+state={
+	id=836
+	name="STATE_836"
+
+	history={
+		victory_points = {
+			10775 1 
+		}
+		owner = OCC
+		add_core_of = ETH
+		add_core_of = SOM
+		add_core_of = ORO
+
+	}
+
+	provinces={
+		4995 13248 
+	}
+	manpower=800000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

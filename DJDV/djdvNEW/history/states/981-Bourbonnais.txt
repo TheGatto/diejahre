@@ -1,0 +1,24 @@
+state={
+	id=981
+	name="STATE_981"
+	history={
+		owner = OCC
+		victory_points = {
+			3594 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = OCC
+
+	}
+	provinces={
+		3594 6644 9607 9609 9748 11576 
+	}
+	manpower=1177800
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

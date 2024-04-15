@@ -1,0 +1,31 @@
+
+state={
+	id=8
+	name="STATE_8"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = FRK
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+
+		}
+		victory_points = {
+			6583 5 
+		}
+		add_core_of = FRK
+
+	}
+
+	provinces={
+		3488 6537 6583 9418 9444 11407 
+	}
+	manpower=2294748
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+state={
+	id=972
+	name="STATE_972"
+	provinces={
+		648 817 3646 3652 3666 9625 9642 11628 
+	}
+	history={
+		owner = RHO
+		victory_points = {
+			9642 3
+		}
+		victory_points = {
+			3652 5 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 4
+
+		}
+		add_core_of = RHO
+
+
+	}
+	manpower=2030120
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+state={ #Petén
+	id=1068
+	name="STATE_1068"
+	history={
+		owner = YUC
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = MEX
+		add_core_of = GUA
+
+	}
+
+	provinces={
+		4991 
+	}
+	manpower=203000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

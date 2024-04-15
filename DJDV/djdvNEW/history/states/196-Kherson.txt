@@ -1,0 +1,31 @@
+
+state={
+	id=196
+	name="STATE_196"
+	resources={
+		chromium=15.000
+	}
+
+	history={
+		victory_points = {
+			721 5 
+		}
+		owner = UKR
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+
+		}
+		add_core_of = UKR
+		add_core_of = CRI
+
+	}
+
+	provinces={
+		568 588 721 737 767 3573 6596 6771 9712 11700 11715 
+	}
+	manpower=728363
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

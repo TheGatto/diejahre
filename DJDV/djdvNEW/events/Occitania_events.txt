@@ -1,0 +1,68 @@
+###########################
+# Occitania Events
+###########################
+
+add_namespace = occitania
+
+country_event = {
+	id = occitania.1
+	title = "Marseilles Manifesto Delivered"
+	desc = occitania.1.d
+	picture = GFX_report_event_marseilles_manifesto
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Excellent."
+		add_political_power = 50 
+		add_stability = 0.05
+		add_popularity = {
+    			ideology = fascism
+    			popularity = 0.05
+		}
+	}
+}
+country_event = {
+	id = occitania.2
+	title = "Opposition Front Formed"
+	desc = occitania.2.d
+	picture = GFX_report_event_opposition_front
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Divided we fall, united we conquer."
+		add_political_power = 50 
+		add_stability = -0.05
+		set_party_name = { 
+    			ideology = democratic 
+    			long_name = OCC_opposition_party_long
+    			name = OCC_opposition_party
+		}
+		add_popularity = {
+    			ideology = fascism
+    			popularity = -0.15
+		}
+		add_popularity = {
+    			ideology = communism
+    			popularity = -1
+		}
+		add_popularity = {
+    			ideology = neutrality
+    			popularity = -1
+		}
+	}
+}
+country_event = {
+	id = occitania.3
+	title = "Remilitarisation of the Rhoneland"
+	desc = occitania.3.d
+	picture = GFX_report_event_marseilles_manifesto
+	
+	is_triggered_only = yes
+	hidden = yes
+	option = {
+		name = "Treaties are nothing but pieces of paper."
+		news_event = { id = occitania_news.1 }
+	}
+}

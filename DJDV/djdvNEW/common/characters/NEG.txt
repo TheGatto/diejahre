@@ -1,0 +1,19 @@
+characters = {
+	NEG_charles_evans_hughes = {
+		name = "Charles Evans Hughes"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NEG_charles_evans_hughes
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+
+
+	}
+	
+	
+}

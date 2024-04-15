@@ -1,0 +1,14 @@
+characters = {
+	BIR_pierre_segretain = {
+		name = "Pierre Segrétain"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BIR_pierre_segretain
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			traits = { }
+		}
+	}
+}

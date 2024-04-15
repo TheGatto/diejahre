@@ -1,0 +1,23 @@
+
+state={
+	id=855
+	name="STATE_855"
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		controller = EGY
+		start_resistance = yes
+		set_compliance = 20
+		set_resistance = 10
+		set_garrison_strength = 1.0
+	}
+
+	provinces={
+		1033 2027 2095 7970 8092 12101 12455 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

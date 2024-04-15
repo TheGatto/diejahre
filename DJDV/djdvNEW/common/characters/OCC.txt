@@ -1,0 +1,58 @@
+characters = {
+	OCC_emanuel_sarrot = {
+		name = "Emanuel Sarrot" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_OCC_emanuel_sarrot
+			}
+		}
+		country_leader = {
+			ideology = nazism
+			traits={ dictator }
+			id = -1 
+		}
+	}
+	OCC_charles_de_gaulle = {
+		name = "Charles de Gaulle" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_OCC_charles_de_gaulle
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits={ stalin_heart_of_steel }
+			id = -1 
+		}
+	}
+	OCC_maxime_weygand={
+		name="Maxime Weygand"
+		portraits={
+			army={
+				large = GFX_portrait_OCC_maxime_weygand
+				small = GFX_portrait_OCC_maxime_weygand_small
+			}
+		}
+		advisor={
+			cost = 200
+			slot = army_chief
+			idea_token = maxime_weygand
+			ledger = army
+			traits = {
+				army_armored_3
+			}
+			ai_will_do = {factor = 1.0}
+		}
+		
+		corps_commander={
+			traits={ brilliant_strategist harsh_leader armor_officer trickster panzer_leader war_hero}
+			skill=4
+			attack_skill=5
+			defense_skill=2
+			planning_skill=5
+			logistics_skill=1
+		}
+	}
+	
+}
+	

@@ -1,0 +1,24 @@
+state={
+	id=978
+	name="STATE_978"
+	history={
+		owner = FRK
+		victory_points = {
+			9559 10 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		add_core_of = FRK
+
+	}
+	provinces={
+		5291 9559 
+	}
+	manpower=1429780
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

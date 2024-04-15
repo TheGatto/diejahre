@@ -1,0 +1,33 @@
+
+state={
+	id=974
+	name="STATE_974"
+
+	history={
+		owner = SGP
+		victory_points = {
+			12299 20 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+			air_base = 6
+			12299 = {
+				naval_base = 8
+				coastal_bunker = 3
+
+			}
+
+		}
+		add_core_of = SGP
+
+	}
+
+	provinces={
+		12299 
+	}
+	manpower=3028480
+	buildings_max_level_factor=1.250
+	state_category=metropolis
+	local_supplies=0.000
+}

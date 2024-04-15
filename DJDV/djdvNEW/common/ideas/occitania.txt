@@ -1,0 +1,78 @@
+ideas = {
+	country = {
+		OCC_outdated_economics_2 = {
+			picture = OCC_outdated_economics
+			allowed = {
+				
+			}
+			available = {
+
+			}
+			cancel = {
+
+			}
+			
+			allowed_civil_war = {
+			
+			}
+		
+			removal_cost = -1
+			
+			modifier = {
+				industrial_capacity_factory = -0.1
+				industrial_capacity_dockyard = -0.1
+				stability_factor = -0.05
+			}
+		}
+		OCC_outdated_economics_1 = {
+			picture = OCC_outdated_economics
+			allowed = {
+				
+			}
+			available = {
+
+			}
+			cancel = {
+
+			}
+			
+			allowed_civil_war = {
+			
+			}
+		
+			removal_cost = -1
+			
+			modifier = {
+				industrial_capacity_factory = -0.05
+				industrial_capacity_dockyard = -0.05
+			}
+		}
+		OCC_mop = {
+			picture = OCC_mop
+			allowed = {
+				
+			}
+			available = {
+
+			}
+			cancel = {
+
+			}
+			
+			allowed_civil_war = {
+			
+			}
+		
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.02
+				industrial_capacity_factory = 0.05
+				production_factory_efficiency_gain_factor = 0.02
+				production_factory_max_efficiency_factor = 0.05
+				production_factory_start_efficiency_factor = -0.05
+				political_power_cost = 0.05
+			}
+		}
+	}
+}

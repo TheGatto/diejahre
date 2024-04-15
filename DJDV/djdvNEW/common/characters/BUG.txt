@@ -1,0 +1,17 @@
+characters = {
+	BUG_jean_adam = {
+		name = "Jean Maurice Adam" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BUG_jean_adam
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits={  }
+			id = -1 
+		}
+	}
+	
+}
+	

@@ -1,0 +1,15 @@
+characters = {
+	RUS_nicholas_ii = {
+		name = "Nicholas II"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_RUS_nicholas
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  }
+		}
+	
+}
+	

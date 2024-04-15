@@ -1,0 +1,26 @@
+state={
+	id=984
+	name="STATE_984"
+
+	history={
+		owner = FRK
+		add_claim_by = PIC
+		victory_points = {
+			3560 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = FRK
+
+	}
+	provinces={
+		3560 
+	}
+	manpower=87038
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

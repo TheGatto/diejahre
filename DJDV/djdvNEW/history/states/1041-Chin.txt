@@ -1,0 +1,23 @@
+
+state={
+	id=1041
+	name="STATE_1041"
+
+	history={
+		add_core_of = BRM
+		owner = BIR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1014 3999 4019 4147 7190 10033 11966 12090 
+	}
+	manpower=398300
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

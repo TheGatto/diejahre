@@ -1,0 +1,31 @@
+
+state={
+	id=376
+	name="STATE_376"
+	resources={
+		oil=14.000
+		aluminium=30.000
+	}
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			853 3 
+		}
+		add_core_of = MEX
+
+	}
+
+	provinces={
+		853 1793 1972 4796 6897 7684 7747 7764 7818 7821 7999 8115 9792 10573 10645 10914 11814 12552 12765 
+	}
+	manpower=1023316
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

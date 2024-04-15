@@ -1,0 +1,47 @@
+capital = 907
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_technology = {
+		gwtank = 1
+	}
+}
+
+set_convoys = 20
+
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	communism = 15
+	neutrality = 85
+}
+
+declare_war_on = {
+		target = TUR
+		type = annex_everything
+}
+
+declare_war_on = {
+		target = EWT
+		type = civil_war
+}
+
+every_owned_state = {
+		add_core_of = EWT
+}

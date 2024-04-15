@@ -1,0 +1,27 @@
+state={
+	id=1033
+	name="STATE_1033"
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 1
+		}
+		
+		victory_points = {
+			4052 1
+		}	
+
+		add_core_of = KOR
+		add_core_of = MAN
+		add_core_of = VLA
+		add_core_of = CHI
+	}
+
+	provinces={
+		3944 6806 11879 
+	}
+	manpower=47096
+	buildings_max_level_factor=1.000
+	state_category = enclave
+	local_supplies=0.000
+}

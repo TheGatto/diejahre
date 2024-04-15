@@ -1,0 +1,27 @@
+characters = {
+	CAU_oleg_kerensky = {
+		name = "Oleg Kerensky"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CAU_oleg_kerensky
+			}
+		}
+		country_leader = {
+			ideology = marxism
+			traits = {  }
+		}
+	}
+
+	CAU_ghevondi_narek = {
+		name = "Ghevondi Narek"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_CAU_ghevondi_narek
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {  anti_democrat }
+		}
+	}
+}

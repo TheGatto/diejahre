@@ -1,0 +1,27 @@
+state={
+	id=1040
+	name="STATE_1040"
+	history={
+		add_core_of = YUN
+		add_core_of = BRM
+		add_core_of = CHI
+		owner = YUN
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			1492 1 
+		}
+		victory_points = {
+			4425 1 
+		}
+
+	}
+	provinces={
+		4175 4210 7400 7909 7974 
+	}
+	manpower=989000
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

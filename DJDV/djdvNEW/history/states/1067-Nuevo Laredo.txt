@@ -1,0 +1,35 @@
+
+state={
+	id=1067
+	name="STATE_1067"
+
+	history={
+		owner = NPR
+		add_core_of = MEX
+		add_core_of = RIG
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			12835 10 
+		}
+		victory_points = {
+			10769 5 
+		}
+		victory_points = {
+			12811 1 
+		}
+
+	}
+
+	provinces={
+		2060 5015 10769 12721 12811 12835 13088 
+	}
+	manpower=177826
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=1066
+	name="STATE_1066"
+
+	history={
+		owner = NPR
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = NPR
+		victory_points = {
+			4975 1 
+		}
+
+	}
+
+	provinces={
+		3867 3883 4975 8070 10740 10867 10894 12684 12720 12791 
+	}
+	manpower=203000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

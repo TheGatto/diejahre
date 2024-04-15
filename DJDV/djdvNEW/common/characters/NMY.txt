@@ -1,0 +1,17 @@
+characters = {
+	NMY_norman_people = {
+		name = "The Norman People" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NMY_norman_people
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

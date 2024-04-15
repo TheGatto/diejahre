@@ -1,0 +1,33 @@
+
+state={
+	id=5
+	name="STATE_5"
+
+	history={
+		victory_points = {
+			6375 3 
+		}
+		
+		victory_points = {
+			3393 3 
+		}
+		victory_points = {
+			3254 1 
+		}
+		owner = PRE
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = PRE
+
+	}
+
+	provinces={
+		266 400 3254 3351 3380 6375 6402 9327 9346 9372 9398 11245 11329 11357 11386 
+	}
+	manpower=1538108
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=12.000
+}

@@ -1,0 +1,168 @@
+
+division_template = {
+	name = "Division d'Infanterie"
+	division_names_group = RHO_INF_01
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+	}
+}
+
+division_template = {
+	name = "Garde de l'Assemblée Nationale"  
+	division_names_group = RHO_GNA_01
+
+	regiments = {
+		mountaineers = { x = 0 y = 0 }
+	    	mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }
+		mountaineers = { x = 1 y = 0 }
+		mountaineers = { x = 1 y = 1 }
+		mountaineers = { x = 1 y = 2 }
+	}
+	support = {
+	engineer = { x = 0 y = 0 }
+        artillery = { x = 0 y = 1 }
+	}
+}
+division_template = {
+	name = "Brigade d'Alpinistes"  
+	division_names_group = RHO_MNT_01
+
+	regiments = {
+		mountaineers = { x = 0 y = 0 }
+	    	mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }
+		mountaineers = { x = 1 y = 0 }
+		mountaineers = { x = 1 y = 1 }
+		mountaineers = { x = 1 y = 2 }
+	}
+}
+
+units = {
+
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 6613
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.4
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 641
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.4
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 9642
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.3
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 4
+		}
+		location = 648
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.3
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 11628
+		division_template = "Division d'Infanterie"
+		start_experience_factor = 0.3
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 6613
+		division_template = "Garde de l'Assemblée Nationale"
+		start_experience_factor = 0.9
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 6613
+		division_template = "Garde de l'Assemblée Nationale"
+		start_experience_factor = 0.9
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 1
+		}
+		location = 11628
+		division_template = "Brigade d'Alpinistes"
+		start_experience_factor = 0.4
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 2
+		}
+		location = 817
+		division_template = "Brigade d'Alpinistes"
+		start_experience_factor = 0.4
+	}
+	division = {
+		division_name = {
+			is_name_ordered = yes
+			name_order = 3
+		}
+		location = 3652
+		division_template = "Brigade d'Alpinistes"
+		start_experience_factor = 0.4
+	}
+
+}
+
+### Starting Production ###
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "RHO"
+		}
+		requested_factories = 3
+		progress = 0.50
+		efficiency = 80
+	}
+	add_equipment_production = {
+		equipment = {
+			support_equipment_1
+			creator = "RHO"
+		}
+		requested_factories = 1
+		progress = 0.50
+		efficiency = 80
+	}
+	add_equipment_production = {
+		equipment = {
+			type = artillery_equipment_1
+			creator = "RHO" 
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 50
+	}
+}

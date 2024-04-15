@@ -1,0 +1,17 @@
+characters = {
+	NPR_hermann_goring = {
+		name = "Hermann Göring" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_NPR_hermann_goering
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

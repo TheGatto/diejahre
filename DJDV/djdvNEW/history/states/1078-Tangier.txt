@@ -1,0 +1,29 @@
+state={
+	id=1078
+	name="STATE_1078"
+	history={
+		owner = TAG
+		victory_points = {
+			13366 10 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			13366 = {
+				naval_base = 5
+
+			}
+
+
+		}
+		add_core_of = TAG
+
+	}
+	provinces={
+		13366 
+	}
+	manpower=242800
+	state_category = large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

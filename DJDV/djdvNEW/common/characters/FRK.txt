@@ -1,0 +1,17 @@
+characters = {
+	FRK_martin_niemoller = {
+		name = "Martin Niemöller" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FRK_martin_niemoller
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

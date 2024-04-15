@@ -1,0 +1,26 @@
+state={
+	id=996
+	name="STATE_996"
+	history={
+		owner = MOL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 2
+
+		}
+		victory_points = {
+			9716 1 
+		}
+		add_core_of = MOL
+		add_core_of = ROM
+
+	}
+	provinces={
+		723 6584 6761 9716 11534 
+	}
+	manpower=426400
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

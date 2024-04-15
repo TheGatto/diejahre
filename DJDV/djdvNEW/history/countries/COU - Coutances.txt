@@ -1,0 +1,21 @@
+capital = 1075
+
+oob = ""
+
+
+set_convoys = 10
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.3.15"
+	election_frequency = 6
+	elections_allowed = yes 
+}
+set_popularities = {
+	democratic = 30
+	fascism = 0
+	communism = 70
+	neutrality = 0
+}
+
+recruit_character=COU_marcel_duchamp

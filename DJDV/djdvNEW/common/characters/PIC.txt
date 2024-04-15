@@ -1,0 +1,17 @@
+characters = {
+	PIC_leon_blum = {
+		name = "Léon Blum" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PIC_leon_blum
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

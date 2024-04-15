@@ -1,0 +1,17 @@
+characters = {
+	PRE_wilhelm_ii = {
+		name = "Wilhelm II" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PRE_wilhelm_ii
+			}
+		}
+		country_leader = {
+			ideology = constitutional
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

@@ -1,0 +1,15 @@
+characters = {
+	EWT_jamal_alhusayni = {
+		name = "Jamal al-Husayni"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_EWT_jamal_alhusayni
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits = { reluctant_stalinist experienced_insurgent veteran_communist }
+		}
+	
+}
+	
