@@ -1,0 +1,23 @@
+
+state={
+	id=1081
+	name="STATE_1081"
+	history={
+		owner = PAP
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = PAP
+
+	}
+	provinces={
+		925 967 9924 11861 
+	}
+	manpower=1023000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

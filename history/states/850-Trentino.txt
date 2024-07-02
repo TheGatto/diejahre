@@ -1,0 +1,27 @@
+
+state={
+	id=850
+	name="STATE_850"
+
+	history={
+		victory_points = {
+			9598 1 
+		}
+		owner = AUS
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = AUS
+		add_core_of = LBV
+
+	}
+
+	provinces={
+		6631 9598 11587 
+	}
+	manpower=370739
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

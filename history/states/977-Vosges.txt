@@ -1,0 +1,24 @@
+state={
+	id=977
+	name="STATE_977"
+	history={
+		owner = BUG
+		victory_points = {
+			11516 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = BUG
+
+	}
+	provinces={
+		521 698 11516 
+	}
+	manpower=1845032
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

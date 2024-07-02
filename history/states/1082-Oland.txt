@@ -1,0 +1,24 @@
+state={
+	id=1082
+	name="STATE_1082"
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			211 1 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+
+	}
+	provinces={
+		211 
+	}
+	manpower=18920
+	state_category=enclave
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
