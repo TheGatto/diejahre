@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = liberalism
-			traits={ }
+			traits={ diplomatic_maestro }
 			id = -1 
 		}
 	}

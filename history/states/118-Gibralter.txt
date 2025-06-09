@@ -6,7 +6,9 @@ state=
 	
 	state_category = enclave
 	history={
-		owner = RIF
+		owner = TAG
+		add_core_of = SPR
+		add_claim_by = ENG
 		victory_points = { 4135 10 }
 		buildings = {
 			infrastructure = 3

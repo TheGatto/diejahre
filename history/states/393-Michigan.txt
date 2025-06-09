@@ -11,10 +11,8 @@ state={
 	history={
 		owner = NCO
 		buildings = {
-			infrastructure = 3 #was: 6
-			arms_factory = 1
-			industrial_complex = 6
-			air_base = 4
+			infrastructure = 2 #was: 6
+			air_base = 1
 
 		}
 		add_core_of = NCO

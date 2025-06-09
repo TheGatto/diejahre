@@ -9,7 +9,7 @@ state = {
 	state_category = wasteland
 	
 	history = {
-		owner = SCO
+		owner = DEN
 		buildings = {
 			infrastructure = 1
 			12512 ={

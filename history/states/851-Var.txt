@@ -2,7 +2,7 @@
 state={
 	id=851
 	name="STATE_851" # Var (Split-off from former Provence now Bouches-du-Rhône)
-	manpower = 2785000
+	manpower = 785000
 	resources={
 		tungsten=8.000
 	}
@@ -18,7 +18,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-			arms_factory = 2
+			arms_factory = 3
 			dockyard = 3
 			911 = {
 				naval_base = 10
@@ -27,11 +27,6 @@ state={
 		}
 		set_demilitarized_zone = yes
 		add_core_of = OCC
-		1939.1.1 = {
-			buildings = {
-				dockyard = 1
-			}
-		}
 	}
 
 	provinces={

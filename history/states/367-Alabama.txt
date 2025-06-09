@@ -7,7 +7,6 @@ state={
 		owner = NPR
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 3
 			7480 = {
 				naval_base = 3
 

@@ -1,0 +1,30 @@
+characters = {
+	JAP_triumvirate = {
+		name = "The Triumvirate" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_triumvirate
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits={ }
+			id = -1 
+		}
+	}
+	JAP_tokugawa_iesato = {
+		name = "Tokugawa Iesato" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_JAP_tokugawa_iesato
+			}
+		}
+		country_leader = {
+			ideology = fascism_ideology
+			traits={ }
+			id = -1 
+		}
+	}
+	
+}
+	

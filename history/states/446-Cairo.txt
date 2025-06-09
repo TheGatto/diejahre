@@ -9,7 +9,7 @@ state={
 		owner = EGY
 		buildings = {
 			infrastructure = 3
-			
+			industrial_complex = 3
 			12049 = {
 				naval_base = 2
 

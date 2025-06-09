@@ -1,0 +1,17 @@
+characters = {
+	AUS_danubia_council = {
+		name = "Council of Danubia" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_AUS_danubia_council
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits={  }
+			id = -1 
+		}
+	}
+	
+}
+	

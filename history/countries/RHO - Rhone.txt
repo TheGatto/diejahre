@@ -1,4 +1,4 @@
-capital = 972
+capital = 971
 
 oob = "RHO_1936"
 
@@ -95,7 +95,7 @@ set_popularities = {
 	democratic = 75
 	fascism = 0
 	communism = 0
-	neutrality = 25
+	authoritarianism = 25
 }
 
 

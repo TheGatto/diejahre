@@ -13,6 +13,7 @@ state={
 		add_core_of = THK
 		buildings = {
 			infrastructure = 2
+			arms_factory = 4
 		}
 		victory_points = {
 			12019 1

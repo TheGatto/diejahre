@@ -1,0 +1,16 @@
+characters = {
+	EGY_fuad_i = {
+		name = "Fuad I"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_EGY_fuad_i
+			}
+		}
+		country_leader = {
+			ideology = constitutional
+			traits = {  }
+		}
+	}
+	
+}
+	

@@ -7,8 +7,7 @@ state={
 			9479 5 
 		}
 		buildings = {
-			infrastructure = 5
-			industrial_complex = 6
+			infrastructure = 3
 
 		}
 		add_core_of = RUS

@@ -15,7 +15,7 @@ set_popularities = {
 	democratic = 30
 	fascism = 0
 	communism = 70
-	neutrality = 0
+	authoritarianism = 0
 }
 
 recruit_character=COU_marcel_duchamp

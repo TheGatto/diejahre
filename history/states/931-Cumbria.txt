@@ -9,14 +9,14 @@ state = {
 	}
 
 	history = {
-		owner = SCO
-		add_core_of = SCO
+		owner = ENG
 		add_core_of = ENG
 		victory_points = {
 			11332 3 #Carlisle
 		}
 		buildings = {
 			infrastructure = 3 #was: 6
+			industrial_complex = 3
 		}
 	}
 

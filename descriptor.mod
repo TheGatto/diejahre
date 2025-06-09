@@ -2,7 +2,14 @@ version="1.0"
 tags={
 	"Alternative History"
 }
-replace_path = history/countries
-replace_path = history/general
+replace_path = "history/states"
+replace_path = "history/general"
+replace_path = "history/units"
+replace_path = "history/countries"
+replace_path = "map"
+replace_path = "map/strategicregions"
+replace_path = "map/terrain"
+replace_path = "events"
+replace_path = "common/national_focus"
 name="djdvNEW"
-supported_version="1.14.*"
+supported_version="1.15.*"

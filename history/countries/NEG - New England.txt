@@ -1,7 +1,7 @@
-capital = 361 #Chita
+capital = 361 
 
 #oob = "NEG_1936"
-
+ENG = {puppet = NEG}
 set_research_slots = 3
 
 # Starting tech
@@ -93,7 +93,7 @@ set_popularities = {
 	democratic = 74
 	fascism = 10
 	communism = 6
-	neutrality = 10
+	authoritarianism = 10
 }
 
 recruit_character = NEG_charles_evans_hughes

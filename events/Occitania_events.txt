@@ -34,23 +34,43 @@ country_event = {
 		name = "Divided we fall, united we conquer."
 		add_political_power = 50 
 		add_stability = -0.05
+		set_temp_variable = { pre_fasciscm_pop = party_popularity@fascism }
+		set_temp_variable = { opposition_pop = party_popularity@communism }
+		add_to_temp_variable = { opposition_pop = party_popularity@authoritarianism }
+		add_to_temp_variable = { opposition_pop = party_popularity@democratic }
 		set_party_name = { 
     			ideology = democratic 
     			long_name = OCC_opposition_party_long
     			name = OCC_opposition_party
 		}
-		add_popularity = {
-    			ideology = fascism
-    			popularity = -0.15
+		hidden_effect = {
+			add_popularity = {
+    				ideology = fascism
+    				popularity = -1
+			}
+			add_popularity = {
+    				ideology = fascism
+    				popularity = var:pre_fasciscm_pop
+			}
+			add_popularity = {
+    				ideology = authoritarianism
+    				popularity = -1
+			}
+			add_popularity = {
+    				ideology = communism
+    				popularity = -1
+			}
+			add_popularity = {
+    				ideology = democratic
+    				popularity = -1
+			}
+			add_popularity = {
+    				ideology = democratic
+    				popularity = var:opposition_pop
+			}
+
 		}
-		add_popularity = {
-    			ideology = communism
-    			popularity = -1
-		}
-		add_popularity = {
-    			ideology = neutrality
-    			popularity = -1
-		}
+
 	}
 }
 country_event = {

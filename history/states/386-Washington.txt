@@ -18,6 +18,7 @@ state={
 
 		}
 		add_core_of = NCO
+		add_core_of = ALA
 		victory_points = {
 			1690 1 
 		}

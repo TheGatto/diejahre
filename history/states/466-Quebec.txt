@@ -8,7 +8,7 @@ state = {
 
 	history = {
 
-		owner = SCO
+		owner = ENG
 		add_core_of = QUE
 
 		buildings = {

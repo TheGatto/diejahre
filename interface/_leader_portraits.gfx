@@ -103,4 +103,32 @@ spriteTypes = {
 		name = "GFX_portrait_COU_marcel_duchamp"
 		texturefile = "gfx/leaders/COU/marcel_duchamp.dds"
 	}
+	spriteType = {
+		name = "GFX_portrait_ENG_george_vi"
+		texturefile = "gfx/leaders/ENG/george_vi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_JAP_triumvirate"
+		texturefile = "gfx/leaders/JAP/triumvirate.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_TUR_mustafa_subhi"
+		texturefile = "gfx/leaders/TUR/mustafa_subhi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_EGY_fuad_i"
+		texturefile = "gfx/leaders/EGY/fuad_i.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_JAP_tokugawa_iesato"
+		texturefile = "gfx/leaders/JAP/tokugawa_iesato.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_AUS_danubia_council"
+		texturefile = "gfx/leaders/AUS/council_of_danubia.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ENG_austen_chamberlain"
+		texturefile = "gfx/leaders/ENG/austen_chamberlain.dds"
+	}
 }

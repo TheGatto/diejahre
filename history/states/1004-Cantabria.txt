@@ -2,7 +2,7 @@ state={
 	id=1004
 	name="STATE_1004"
 	history={
-		owner = NAV
+		owner = SPR
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -10,6 +10,7 @@ state={
 
 		}
 		add_core_of = NAV
+		add_core_of = SPR
 
 	}
 	provinces={

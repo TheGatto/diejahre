@@ -9,6 +9,7 @@ state=
 	{
 		add_core_of = BLZ
 		add_core_of = MEX
+		add_core_of = YUC
 		owner = YUC
 		victory_points = {
 			2077 1 

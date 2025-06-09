@@ -85,17 +85,18 @@ if = {
 	}
 }
 set_politics = {
-	ruling_party = communism
+	ruling_party = blumism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 12
+	democratic = 4
 	fascism = 3
-	communism = 85
-	neutrality = 0
+	communism = 12
+	authoritarianism = 1
+	blumism = 80
 }
 
 

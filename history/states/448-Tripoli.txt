@@ -7,19 +7,20 @@ state={
 	state_category = town
 
 	history={
-		owner = OCC
+		owner = LBA
 		
 		victory_points = {
 			1149 10 
 		}
 		buildings = {
 			infrastructure = 2
-			air_base = 6
+			air_base = 3
+			industrial_complex = 2
 			1149 = {
 				naval_base = 5
 			}
 		}
-		add_core_of = TUN
+		add_core_of = LBA
 	}
 
 	provinces={

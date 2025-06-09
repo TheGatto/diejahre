@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = TTS
+		owner = ITA
 		victory_points = {
 			819 20 
 		}
@@ -25,6 +25,7 @@ state={
 
 		}
 		add_core_of = TTS
+		add_core_of = ITA
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2

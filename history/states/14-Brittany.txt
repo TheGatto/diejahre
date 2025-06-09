@@ -2,22 +2,23 @@
 state={
 	id=14
 	name="STATE_14"
-	manpower = 2476600
+	manpower = 3476600
 	
 	state_category = large_city
 
 	history={
 		owner = BRI
 		victory_points = {
-			3552 20
+			3552 30
 		}
 		victory_points = {
 			542 1
 		}
 		buildings = {
-			infrastructure = 3
-			dockyard = 5
+			infrastructure = 4
+			dockyard = 3
 			air_base = 5
+			industrial_complex = 3
 			3552 = {
 				naval_base = 10
 				coastal_bunker = 1

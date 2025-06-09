@@ -1,0 +1,15 @@
+characters = {
+	TUR_mustafa_subhi = {
+		name = "Mustafa Subhi"
+		portraits = {
+			civilian = {
+				large = GFX_portrait_TUR_mustafa_subhi
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			traits = {  }
+		}
+	
+}
+	

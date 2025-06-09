@@ -7,8 +7,8 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology = stalinism
-			traits={ }
+			ideology = purism
+			traits={ father_of_blumism }
 			id = -1 
 		}
 	}

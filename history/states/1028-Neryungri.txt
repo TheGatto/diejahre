@@ -2,7 +2,7 @@ state={
 	id=1028
 	name="STATE_1028"
 	history={
-		owner = FER
+		owner = RUS
 		victory_points = {
 			10641 1 
 		}
@@ -12,6 +12,7 @@ state={
 
 		}
 		add_core_of = FER
+		add_core_of = RUS
 
 	}
 	provinces={

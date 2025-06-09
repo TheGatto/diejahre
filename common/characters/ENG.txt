@@ -1,0 +1,30 @@
+characters = {
+	ENG_george_vi = {
+		name = "George VI" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ENG_george_vi
+			}
+		}
+		country_leader = {
+			ideology = absolutism
+			traits={ }
+			id = -1 
+		}
+	}
+	ENG_austen_chamberlain = {
+		name = "Austen Chamberlain" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_ENG_austen_chamberlain
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			traits={ staunch_constitutionalist steady_hand }
+			id = -1 
+		}
+	}
+	
+}
+	

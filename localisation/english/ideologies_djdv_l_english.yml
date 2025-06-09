@@ -1,0 +1,114 @@
+﻿l_english:
+ anarchism:0 "Anarchist"
+ anarchism_noun:0 "Anarchism"
+ anarchism_desc:0 "Radical Regime"
+
+ blumism:0 "Blumist"
+ blumism_noun:0 "Blumism"
+ blumism_desc:0 "Totalitarian Regime"
+
+ monarchism:0 "Monarchist"
+ monarchism_noun:0 "Monarchism"
+ monarchism_desc:0 "Authoritarian Regime"
+
+ communism:0 "Communist"
+ communism_noun:0 "Communism"
+ communism_desc:0 "Totalitarian Regime"
+
+ democratic:0 "Democratic"
+ democratic_noun:0 "Democracy"
+ democratic_desc:0 "Democratic Regime"
+
+ fascism:0 "Fascist"
+ fascism_noun:0 "Fascism"
+ fascism_desc:0 "Totalitarian Regime"
+
+ authoritarianism:0 "Authoritarian"
+ authoritarianism_noun:0 "Authoritarianism"
+ authoritarianism_desc:0 "Authoritarian Regime"
+
+ absolutism:0 "Absolutism"
+ absolutism_desc:0 "An absolute monarchy is a form of government in which a single sovereign, typically a monarch, possesses unrestricted and centralized authority over the state."
+ 
+ constitutional:0 "Constitutional"
+ constitutional_desc:0 "A constitutional monarchy, unlike an absolute monarchy, is a limiting form of monarchy characterised by the constraint of the monarch's authority by legal and constitutional provisions."
+ 
+ elective:0 "Elective"
+ elective_desc:0 "An elective monarchy incorporates a democratic approach in selecting a head of state, but may not necessarily be constitutional. "
+ 
+ conservatism:0 "Conservatism"
+ conservatism_desc:0 "Considering rapid changes to society to be potentially harmful, conservatism espouses tradition and moderate reforms, sometimes advocating a return to old moral values."
+ 
+ liberalism:0 "Liberalism"
+ liberalism_desc:0 "With a long philosophical tradition of valuing personal liberty, liberalism views safeguarding these rights as the primary function of the state."
+ 
+ socialism:0 "Socialism"
+ socialism_desc:0 "Striving for equality and a socialist state by reformist means, democratic socialism aims to abolish or mitigate the effects of capitalism with public mandate."
+ 
+ marxism:0 "Marxism"
+ marxism_desc:0 "Encompassing a broad spectrum of economic and historical views, Marxist politics seek to apply the theories of Karl Marx to political practice. Class struggle and the need for transition to a society based on common ownership of the means of production characterize these ideologies."
+ 
+ leninism:0 "Leninism"
+ leninism_desc:0 "A political ideology based in Marxist thought, Leninism seeks to establish a socialist state by a vanguard party leading a revolution overthrowing capitalist society. Once in power, the party rules through a system whereby policies are open for internal debate until a decision has been made."
+ 
+ stalinism:0 "Stalinism"
+ stalinism_desc:1 "Identifying as a form of government applying and developing Marxist-Leninist policies, Stalinism emphasizes rapid industrialization and collectivization as well as the need for a strong, authoritative socialist state to purge any counter-revolutionary elements."
+ 
+ anti_revisionism:0 "Anti-Revisionism"
+ anti_revisionism_desc:0 "A reaction to the many ideologies claiming to be successors to Marxism, Anti-Revisionism advocates retaining key elements of original revolutionary theory. Mainly opposing incorporation of capitalist economic elements into socialist states, the ideology is defined as much by what it isn't as what it is."
+ 
+ anarchist_communism:0 "Anarchist Communism"
+ anarchist_communism_desc:0 "An ideology embracing the idea of communism as a stateless society, Anarchist Communism eschews the idea of a transitionary socialist state and favors a society based on voluntary associations and mutual aid."
+ 
+ nazism:0 "Nazism"
+ nazism_desc:0 "Rooted in extreme nationalism, National Socialism is driven by ideas of Germanic supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power, the Führer."
+ 
+ gen_nazism:0 "Nazism"
+ gen_nazism_desc:0 "Rooted in extreme nationalism, National Socialism is driven by ideas of racial supremacy. It promotes aggressive expansionism and a totalitarian state where the people are united under a leader with absolute power."
+ 
+ fascism_ideology:0 "Fascism"
+ fascism_ideology_desc:0 "Encompassing a variety of ultra-nationalist movements, fascism typically venerates devotion to the state and uniting the people under a strong leader."
+ 
+ falangism:0 "Falangism"
+ falangism_desc:0 "An authoritarian ideology with traits of fascism and conservatism, Falangism values national and Catholic identity."
+ 
+ rexism:0 "Rexism"
+ rexism_desc:0 "Strongly opposed to both liberal and communist ideals, Rexism is a staunchly conservative nationalist movement who advocate a corporatist economic policy. Employing increasingly populist and authoritarian rhetoric, their ideals are shifting closer to other fascist movements."
+ 
+
+ despotism:0 "Despotic"
+ despotism_desc:0 "Despotism is a form of government in which a single person rules with absolute power."
+ 
+ oligarchism:0 "Oligarchic"
+ oligarchism_desc:0 "Oligarchy is a form of government in which a group of people rule with absolute power."
+ 
+ moderatism:1 "Moderatism"
+ moderatism_desc:1 "Moderatism is a form of government which avoids the extremes of left and right by taking a moderate position or course of action."
+ 
+ centrism:1 "Centrism"
+ centrism_desc:1 "Centrism is a form of government which wants to achieve common sense solutions that appropriately address current and future needs, that support the public trust and serve the common good with consideration of risk and capacity in context of these needs."
+
+ purism:0 "Purism"
+ purism_desc:0 "Blum's vision is perfect and eternal, there is no need for revision or alteration. The worker's utopia was born the moment the revolution ended."
+
+ revisionist:0 "Revisionist"
+ revisionist_desc:0 "Blum's vision was perfect, but the revolution has not yet come to be for the revolution is a long struggle, we must cleanse all evidence of the bourgeoisie until it is eradicated from our utopia."
+
+ esoteric_blumism:0 "Esoteric"
+ esoteric_blumism_desc:0 "The revolution is divine, the act of revolution itself creates a spirit in the aether, and it must be fueled in order to keep of utopia alive. To create a perfect state, it must be protected by a perfect being."
+
+ technocratic:0 "Technocratic"
+ technocratic_desc:0 "The filthy capitalists are not only greedy for money and power, but also technology, they will surpass and destroy us if we don't keep up the pace. Utopia must develop to facilitate this rapid growth as well."
+
+ chauvinism:0 "Chauvinism"
+ chauvinism_desc:0 "Our utopia is ours and ours alone, we worked fought and died to create it, and we ought to be the ones to benefit from it, if others want a utopia, they should put in the effort to start the revolution themselves."
+
+ lee_chin_koon_thought:0 "Lee Chin Koon Thought"
+ lee_chin_koon_thought_desc:0 "Corporations use profit incentives to create the most efficient money-making system possible, letting them have complete control of our nation will therefore result in the most efficient system there can be, just as predicted by the great Father."
+
+ unorganised_tribes:0 "Unorganised Tribes"
+ unorganised_tribes_desc:0 "Although they do have leaders, no tribe is dominant enough to truly call themselves ruler of this land."
+
+ communalism:0 "Communalism"
+ communalism_desc:0 "The peasants want to work there own land for the benefit of themselves, with no lord nor king to pay taxes to."
+ 

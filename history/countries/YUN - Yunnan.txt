@@ -1,4 +1,4 @@
-﻿capital = 325
+capital = 325
 
 CHI = {puppet = YUN}
 oob = "YUN_1936"
@@ -19,5 +19,5 @@ set_politics = {
 }
 set_popularities = {
 	fascism = 80
-	neutrality = 20
+	authoritarianism = 20
 }

@@ -4,7 +4,7 @@ state={
 	history={
 		owner = BRI
 		victory_points = {
-			6536 5
+			6536 10
 		}
 		buildings = {
 			infrastructure = 3
@@ -22,7 +22,7 @@ state={
 	provinces={
 		6536 6548 9510 
 	}
-	manpower=805040
+	manpower=1805040
 	state_category = city
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

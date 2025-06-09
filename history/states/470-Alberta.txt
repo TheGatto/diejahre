@@ -5,8 +5,7 @@ state={
 	history={
 		owner = NCO
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 1
+			infrastructure = 2
 
 		}
 		victory_points = {
